@@ -1,8 +1,10 @@
-Thank you for using our template!
+Hello
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+Welcome to Whitespace
+we are Web Development and Design agency
+we Help to Grow Your Business
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+feel free to contact us
+tell.whitespace@gmail.com
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+God bless you
